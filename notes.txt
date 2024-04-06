@@ -1,0 +1,46 @@
+It’s finally time to start a project I’ve been thinking about for at least 7 years, probably longer.
+
+A series of books starting from no programming experience and going all the way up to being able to do research in PL and write papers.
+
+Current contender for the overall title:
+
+***
+Computation, Languages, and Research: An Idiosyncratic View
+by William E. Byrd
+***
+(this one seems honest and direct--I like it!)
+
+Computation, Programming, Languages, Research, and What-Have-You: An Idiosyncratic View
+Computation, Programming, Languages, Research, and What-Have-You:
+An Idiosyncratic Uncourse by Will Byrd
+An Idiosyncratic Approach to Computation, Programming, Languages, Research, and What-Have-You
+An Idiosyncratic Uncourse on Computation, Programming, Languages, Research, and What-Have-You
+An Idiosyncratic Uncourse on Computation, Programming, Languages, and Research
+Will's Guide to Computation, Programming, Languages, and Research
+Will's Weird Guide to Computation
+Idiosyncratic Views on Computation
+Views on Computation
+Will's Guide to Computation
+Will's Guide to Computation, Programming, Languages, and all the rest!
+Will's Guide to Computation, Programming, Languages, and What-have-you
+Will's Big 'ole Guide to Computation, Programming, Languages, and What-have-you
+Computation, Programming, Languages, amd All the Rest!
+An Idiosyncratic Approach to Computation
+An Idiosyncratic Uncourse in Computation
+An Idiosyncratic Programming Languages Training Arc
+An Idiosyncratic Uncourse in Programming Languages
+An Idiosyncratic Computational Training Arc
+An Imperishable Wonderland of Infinite Fun
+
+Focused, not surprisingly, on the things I know best—Scheme and relational programming, but including plenty of there things such as types and proof assistants or automated theorem proving and what-have-you.
+
+How to get started?
+
+TODO:
+
+* create new github repo
+(after a little thought, I think this series of books should be in its own repo, and should not be part of the Imperishable Wonderland repo)
+
+* start outlining the volumes, and what will be in each volume (see `outline.md`)
+
+* start thinking about the "writing rules" for the series (see `writing-rules.md`)
