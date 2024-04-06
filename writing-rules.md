@@ -10,11 +10,23 @@ Writing Rules for 'Computation, Languages, and Research: An Idiosyncratic View'
 
 * try to be efficient, in that if someone asks me to explain something, see if I can write up what I have in mind as part of this Uncourse
 
-* Stick with pandoc and Markdown.  I'm not super happy with the PDF output from pandoc so far, but Markdown is easy to work with, accessible, and I don't spend all my time messing around with LaTeX typesetting.  Maybe I can at least adjust the margins for PDF output from pandoc---the margins are so huge!
+* bootstrap philosophy, at multiple levels
 
-* Idiosyncratic, personal point of view.  Not an encyclopedia of everything that could be taught or explored in computing (as if I could even write such a thing).
+* self-reliance: Skills and Attitude for -- Uncourse should be based on this, to the greatest possible extent
 
-* Trajectory, coherence, point-of-view, and intellectual stance are important---much more important than trying to replace a CS undergrad/grad program.
+* put compelling, deep, fascinating ideas as early as I can get away with.
+
+* lots and lots of "asides", pointers to interesting resources, etc. (for example, to the book 'Vehicles', Quine Relays, Feynman Lectures on Computating, Forth, whatever)  Think DFW, SICP, any book with a ton of footnotes/margin notes/etc., oriented largely towards bootstrapping
+
+* assumption -- computation is fascinating, the universe is fascinating, etc.  My job is to show fascinating things in a way where the fascinating parts are apparent, not hidden (and it is very easy for them to be hidden!)
+
+* assumption -- the learner is interested in the fascinating parts; this isn't Job Training 101, as useful as that might be.  Here we are interested in deep, beautiful, fascinating ideas with longevity, which also turn out to be surprisingly useful *because* they are deep and beautiful.
+
+* stick with pandoc and Markdown.  I'm not super happy with the PDF output from pandoc so far, but Markdown is easy to work with, accessible, and I don't spend all my time messing around with LaTeX typesetting.  Maybe I can at least adjust the margins for PDF output from pandoc---the margins are so huge!  How does pandoc/Markdown do with asides?  Asides are not optional!
+
+* idiosyncratic, personal point of view.  Not an encyclopedia of everything that could be taught or explored in computing (as if I could even write such a thing).
+
+* trajectory, coherence, point-of-view, and intellectual stance are important---much more important than trying to replace a CS undergrad/grad program.
 
 * Assumption is that the learner will learn from many resources other than this Uncourse.  This Uncourse can provide an arc/trajectory/way of looking at computation, programming, programming languages, research, etc., that is unique, and that can't be discovered by taking a bunch of individual classes/reading individual books on specific technical topics by a bunch of people.
 
@@ -44,7 +56,5 @@ Writing Rules for 'Computation, Languages, and Research: An Idiosyncratic View'
 program transformations, continuations (incl. delimited), streams, interpreters, relational programming, program synthesis, macros, staged evaluation, automated theorem proving, SAT/SMT, Monte Carlo simulation + RL, probabilistic programming, reversible computing, quines, self-reps, lambda calculus, combinatory logic, computation in living cells, undecidability, halting problem, Chomsky Hierarchy, concatenative languages, quine relays, FPGA, NAND, microcontrollers, fractals and complexity/chaos, sequent calculus, ill-typed type system, abstract interpretation, compilers, abstract machines, virtual machines, cellular automata, unusual models of computation (billiad ball, for example)
 
 * Triage the cool things, and make sure to include the ones I most want to talk about.  Work backwards wrt dependencies.  Leave out the boring stuff!  :P  Of course, there is no boring stuff if you go deep enough.  However, I should find alternative ways to talk about things I don't find very inspiring right now, like how I used microcontrollers to talk about side effects and mutable state back in the day.
-
-* Put compelling, deep, fascinating ideas as early as I can get away with.
 
 * Idea: I wonder how much of this I could explore functionally, and relationally?
